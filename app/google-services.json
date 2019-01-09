@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "267044845660",
+    "firebase_url": "https://fir-proguardbug.firebaseio.com",
+    "project_id": "fir-proguardbug",
+    "storage_bucket": "fir-proguardbug.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267044845660:android:3e9fa5abc6245723",
+        "android_client_info": {
+          "package_name": "com.example.justinbrooks.firebaseproguardbug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267044845660-48sf32f2d0untu5udrme4oebg8oj8nu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQG4snLvJENgBfRAZYzP76WcxWk3NqfOY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
